@@ -6,7 +6,8 @@
 
 > 账号最好为gmail邮箱，如果是微软的邮箱，会导致购买失败，强烈建议直接使用gmail的邮箱注册OpenAI，并进行plus会员购买。
 
-![logo](./img/01.png)
+![image](./img/01.png)
+
 
 ![logo](./img/02.png)
 
