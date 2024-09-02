@@ -10,7 +10,7 @@
 ![image](./img/01.png)
 
 
-![logo](./img/02.png)
+![image](./img/02.png)
 
 
 
@@ -24,7 +24,7 @@
 
 ##### 2.1 注册账号
 
-![2.1](https://github.com/cabinhou/wildcard/blob/main/img/2.1.png)
+![2.1](./img/2.1.png)
 
 
 
@@ -32,11 +32,11 @@
 #可以用手机号可以快速注册。
 ```
 
-![2.3](https://github.com/cabinhou/wildcard/blob/main/img/2.3.png)
+![2.3](./img/2.3.png)
 
 ##### 2.2 可支付的平台列表
 
-![](https://github.com/cabinhou/wildcard/blob/main/img/2.2.png)
+![](./img/2.2.png)
 
 
 
@@ -52,9 +52,9 @@
 #建议选择2年的服务年限，默认是11.99美元，使用支付宝进行支付，由于手续费原因，金额会多一点。使用邀请码KK99可以优惠1美元。
 ```
 
-![3.1.1](https://github.com/cabinhou/wildcard/blob/main/img/3.1.1.png)
+![3.1.1](./img/3.1.1.png)
 
-![3.1.2](https://github.com/cabinhou/wildcard/blob/main/img/3.1.2.png)
+![3.1.2](./img/3.1.2.png)
 
 
 
@@ -66,7 +66,7 @@
 
 
 
-##### ![3.2](https://github.com/cabinhou/wildcard/blob/main/img/3.2.png)
+##### ![3.2](./img/3.2.png)
 
 
 
@@ -76,7 +76,7 @@
 #填写实名信息,这个建议要用真实信息。
 ```
 
-![3.3](https://github.com/cabinhou/wildcard/blob/main/img/3.3.png)
+![3.3](./img/3.3.png)
 
 ##### 3.4 虚拟银行卡
 
@@ -86,7 +86,7 @@
 
 
 
-![3.4](https://github.com/cabinhou/wildcard/blob/main/img/3.5.png)
+![3.4](./img/3.5.png)
 
 #### 4、ChatGPT账号升级
 
@@ -96,7 +96,7 @@
 #不要使用微软的邮箱，最好使用gmail邮箱登陆的chatgpt账号，否则可能会被封号。
 ```
 
-![4.1](https://github.com/cabinhou/wildcard/blob/main/img/4.1.png)
+![4.1](./img/4.1.png)
 
 
 
@@ -106,21 +106,21 @@
 #进入chatgpt网站，点击左下角的升级按钮，进入升级页面。
 ```
 
-![01](https://github.com/cabinhou/wildcard/blob/main/img/01.png)
+![01](./img/01.png)
 
 
 
-![4.4-2](https://github.com/cabinhou/wildcard/blob/main/img/4.4-2.png)
+![4.4-2](./img/4.4-2.png)
 
 
 
-![4.4-3](https://github.com/cabinhou/wildcard/blob/main/img/4.4-3.png)
+![4.4-3](./img/4.4-3.png)
 
 
 
 ##### 4.3 ChatGPT Plus一键升级
 
-![4.2](https://github.com/cabinhou/wildcard/blob/main/img/4.2.png)
+![4.2](./img/4.2.png)
 
 
 
@@ -130,15 +130,15 @@
 # 一般我们选择20美元的plus。
  ```
 
-![4.3](https://github.com/cabinhou/wildcard/blob/main/img/4.3.png)
+![4.3](./img/4.3.png)
 
 ##### 
 
-![4.4](https://github.com/cabinhou/wildcard/blob/main/img/4.4-1.png)
+![4.4](./img/4.4-1.png)
 
 
 
-![4.4-4](https://github.com/cabinhou/wildcard/blob/main/img/4.4-4.png)
+![4.4-4](./img/4.4-4.png)
 
 
 
@@ -148,13 +148,13 @@
 >
 > （2）、正常会提醒余额不足，然后转到支付界面进行充值，尽量用多少充多少。
 
-![4.5](https://github.com/cabinhou/wildcard/blob/main/img/4.5-1.png)
+![4.5](./img/4.5-1.png)
 
-![4.5-2](https://github.com/cabinhou/wildcard/blob/main/img/4.5-2.png)
+![4.5-2](./img/4.5-2.png)
 
-![4.9](https://github.com/cabinhou/wildcard/blob/main/img/4.5-3.png)
+![4.9](./img/4.5-3.png)
 
-![4.9-2](https://github.com/cabinhou/wildcard/blob/main/img/4.5-4.png)
+![4.9-2](./img/4.5-4.png)
 
 
 
@@ -162,9 +162,9 @@
 
 
 
-![5.1](https://github.com/cabinhou/wildcard/blob/main/img/5.1.png)
+![5.1](./img/5.1.png)
 
 
 
-![5.2](https://github.com/cabinhou/wildcard/blob/main/img/5.2.png)
+![5.2](./img/5.2.png)
 
