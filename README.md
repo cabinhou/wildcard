@@ -1,4 +1,4 @@
-通过虚拟信用卡，升级到ChatGPT Plus的步骤
+### 通过虚拟信用卡，升级到ChatGPT Plus的步骤
 
 > 由于ChatGPT Plus不支持境内信用卡购买，因而只能“曲线救国”，才能开通Plus会员。
 
