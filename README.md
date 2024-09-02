@@ -1,4 +1,49 @@
-##### 
+
+> 由于ChatGPT Plus不支持境内信用卡购买，因而只能“曲线救国”，才能开通Plus会员。
+
+#### 1、登录OpenAI
+
+> 账号最好为gmail邮箱，如果是微软的邮箱，会导致购买失败，强烈建议直接使用gmail的邮箱注册OpenAI，并进行plus会员购买。
+
+![01](https://github.com/cabinhou/wildcard/blob/main/img/01.png)
+
+![02](https://github.com/cabinhou/wildcard/blob/main/img/02.png)
+
+
+
+#### 2、注册WildCard账号
+
+> 试了国内的visa和银联等双币卡，全部支付失败，在国外开卡，目前最好的方式就是开通虚拟卡，实现各种海外的支付。
+>
+> WildCard注册地址：https://bewildcard.com/i/KK99
+>
+> OpenAI地址：https://chatgpt.com
+
+##### 2.1 注册账号
+
+![2.1](https://github.com/cabinhou/wildcard/blob/main/img/2.1.png)
+
+
+
+```sh
+#可以用手机号可以快速注册。
+```
+
+![2.3](https://github.com/cabinhou/wildcard/blob/main/img/2.3.png)
+
+##### 2.2 可支付的平台列表
+
+![](https://github.com/cabinhou/wildcard/blob/main/img/2.2.png)
+
+
+
+#### 3、申请WildCard虚拟卡
+
+> 在“我的卡片”中，申请信用卡，服务年限可以选择“2年”或者“3年”，然后使用“支付宝”进行支付。
+
+
+
+##### 3.1  服务年限选择和支付宝支付
 
 ```sh
 #建议选择2年的服务年限，默认是11.99美元，使用支付宝进行支付，由于手续费原因，金额会多一点。使用邀请码KK99可以优惠1美元。
@@ -119,3 +164,4 @@
 
 
 ![5.2](https://github.com/cabinhou/wildcard/blob/main/img/5.2.png)
+
