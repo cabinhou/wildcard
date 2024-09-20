@@ -2,6 +2,16 @@
 
 > 由于ChatGPT Plus不支持境内信用卡购买，因而只能“曲线救国”，才能开通Plus会员。
 
+#### 0、常见问题
+> 续订ChatGPT Plus失败（您的信用卡被拒绝了。请尝试用借记卡支付。）
+
+> To change your billing address, leave this page and restart checkout.
+ 要更改账单地址，请离开本页并重新开始结账。
+
+> We are unable to authenticate your payment method. Please choose a different payment method and try again.
+ 我们未能验证您的支付方式。请选择另一支付方式并重试。
+
+
 #### 1、登录OpenAI
 
 > 账号最好为gmail邮箱，如果是微软的邮箱，会导致购买失败，强烈建议直接使用gmail的邮箱注册OpenAI，在进行plus会员购买。第一步依次打开这两个页面就行，后边会用到这里的URL地址。
